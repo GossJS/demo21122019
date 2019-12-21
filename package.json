@@ -1,5 +1,8 @@
 {
   "name": "demo21122019",
+  "scripts": {
+    "start": "node index.js"
+  },
   "engines": {
     "node": ">=13.3.0"
   },
